@@ -7,10 +7,11 @@ def brain_even():
     i = 0
     while i < 3:
         num = random.randint(1, 100)
-        if num % 2 == 0:
-            correct_answer = 'yes'
-        else:
-            correct_answer = 'no'
+        match num % 2 == 0:
+            case True:
+                correct_answer = 'yes'
+            case False:
+                correct_answer = 'no'
         print(f'Question:{num}')
         user_answer = input('Your answer:')
         if correct_answer != user_answer:
