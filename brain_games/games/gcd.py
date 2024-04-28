@@ -1,7 +1,9 @@
 import random
 
+
 def rule():
     print('Find the greatest common divisor of given numbers.')
+
 
 def run():
     num1 = random.randint(1, 100)
@@ -13,4 +15,4 @@ def run():
             if max(num1, num2) % i == 0:
                 answer = f'{i}'
         i += 1
-    return { 'question': numbers, 'answer': answer }
+    return {'question': numbers, 'answer': answer}

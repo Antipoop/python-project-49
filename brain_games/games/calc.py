@@ -1,5 +1,6 @@
 import random
 
+
 def rule():
     print('What is the result of the expression?')
 
@@ -18,4 +19,4 @@ def run():
         case 3:
             correct_answer = f'{num1 * num2}'
             str_operation = f'{num1} * {num2}'
-    return { 'question': str_operation, 'answer': correct_answer}
+    return {'question': str_operation, 'answer': correct_answer}

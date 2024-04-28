@@ -1,5 +1,6 @@
 import random
 
+
 def rule():
     print('Answer "yes" if the number is even, otherwise answer "no".')
 
@@ -11,4 +12,4 @@ def run():
             correct_answer = 'yes'
         case False:
             correct_answer = 'no'
-    return { 'question': num, 'answer': correct_answer }
+    return {'question': num, 'answer': correct_answer}
