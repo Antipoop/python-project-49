@@ -4,6 +4,10 @@ version = "0.1.0"
 description = "Brain Games is collection of 5 console game written on python"
 authors = ["Antipoop <antipoop2000@yandex.ru>"]
 readme = "README.md"
+repository = "https://github.com/Antipoop/python-project-49"
+classifiers = [
+    "Topic :: Software Development :: Python games",
+]
 packages = [
   { include = "brain_games" },
 ]
