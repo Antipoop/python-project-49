@@ -1,4 +1,5 @@
 from brain_games.cli import welcome_user
+import prompt
 
 
 def logic(game):
@@ -11,7 +12,7 @@ def logic(game):
         correct = result_game["answer"]
         question = result_game["question"]
         print(f'Question: {question}')
-        answer = input('Your answer: ')
+        answer = prompt.string('Your answer: ')
         if answer != correct:
             str1 = f"'{answer}' is wrong answer ;(. "
             str2 = f"Correct answer was '{correct}'."
