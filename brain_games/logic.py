@@ -1,11 +1,11 @@
-from brain_games.cli import welcome_user
 import prompt
 
 
-def logic(game):
-    user_name = welcome_user()
+def logic(game, rounds):
+    print('Welcome to the Brain Games!')
+    user_name = prompt.string('May I have your name? ')
+    print(f'Hello, {user_name}!')
     game.rule()
-    rounds = 3
     i = 0
     while i < rounds:
         result_game = game.run()

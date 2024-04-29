@@ -3,4 +3,4 @@ from brain_games.logic import logic
 
 
 def main():
-    return logic(gcd)
+    return logic(gcd, 3)
