@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "hexlet-code"
 version = "0.1.0"
-description = "Python Brain_Games"
+description = "Brain Games is collection of 5 console game written on python"
 authors = ["Antipoop <antipoop2000@yandex.ru>"]
 readme = "README.md"
 packages = [
