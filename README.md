@@ -27,13 +27,13 @@ LIST OF GAMES:
 
 
 DEMONSTRATION OF THE LAUNCH AND PROCESS OF GAMES:
-### brain_even ascii:
+### brain-even:
 [![asciicast](https://asciinema.org/a/xNSPd4sjyc2iuodKpMOVINS0S.svg)](https://asciinema.org/a/xNSPd4sjyc2iuodKpMOVINS0S)
-### brain_calc ascii:
+### brain-calc:
 [![asciicast](https://asciinema.org/a/TqkZBjn3mcmw3eUolAGzr2JuJ.svg)](https://asciinema.org/a/TqkZBjn3mcmw3eUolAGzr2JuJ)
-### brain_gcd ascii:
+### brain-gcd:
 [![asciicast](https://asciinema.org/a/W6FXr14zBQ5wY4orzfpxMr0l3.svg)](https://asciinema.org/a/W6FXr14zBQ5wY4orzfpxMr0l3)
-### brain_progression ascii:
+### brain-progression:
 [![asciicast](https://asciinema.org/a/bJw4wMsNskC1zNyZhueKI9EDF.svg)](https://asciinema.org/a/bJw4wMsNskC1zNyZhueKI9EDF)
-### brain_prime ascii:
+### brain-prime:
 [![asciicast](https://asciinema.org/a/oYaEKtuPf7viQ3RT8JXuWsM0r.svg)](https://asciinema.org/a/oYaEKtuPf7viQ3RT8JXuWsM0r)
